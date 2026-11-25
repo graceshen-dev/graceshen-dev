@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Grace%20👋&fontSize=50&fontAlignY=35&animation=fadeIn&desc=CS%20@%20University%20of%20Waterloo&descAlignY=55&descSize=18" width="100%" alt="Hi, I'm Grace"/> <!-- Typing animation --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Computer+Science+%40+UWaterloo+🎓;Building+things+people+actually+use+🛠️;Product+%2B+code+%3D+my+happy+place+💡;Open+to+Summer+2027+co-op!+🚀" alt="Typing animation"/> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:C084FC&fontColor=FFFFFF&height=200&section=header&text=Hi,%20I'm%20Grace&fontSize=50&fontAlignY=35&animation=fadeIn&desc=CS%20@%20University%20of%20Waterloo&descAlignY=55&descSize=18" width="100%" alt="Hi, I'm Grace"/> <!-- Typing animation --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D6BFF&center=true&vCenter=true&width=520&lines=Computer+Science+%40+UWaterloo;Building+things+people+actually+use;Product+%2B+code+%3D+my+happy+place;Open+to+Summer+2027+co-op!" alt=""/> </p>
 
 I'm a first-year **Computer Science** student at the **University of Waterloo** who has a passion for building, community, and culture.
 
@@ -36,3 +36,5 @@ I'm a first-year **Computer Science** student at the **University of Waterloo** 
 ---
 
 "Explore everything, because discovery is unintentional"
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=graceshen-dev&show_icons=true&hide_border=true&title_color=9D6BFF&icon_color=9D6BFF&text_color=7F5AF0" alt="Grace's GitHub stats" height="150"/> </p> <!-- Matching wave footer --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,100:7F5AF0&height=120&section=footer" width="100%" alt=""/>

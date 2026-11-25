@@ -37,4 +37,4 @@ I'm a first-year **Computer Science** student at the **University of Waterloo** 
 
 "Explore everything, because discovery is unintentional"
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=graceshen-dev&show_icons=true&hide_border=true&title_color=9D6BFF&icon_color=9D6BFF&text_color=7F5AF0" alt="Grace's GitHub stats" height="150"/> </p> <!-- Matching wave footer --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,100:7F5AF0&height=120&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,100:7F5AF0&height=120&section=footer" width="100%" alt=""/>

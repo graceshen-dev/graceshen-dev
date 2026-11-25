@@ -36,8 +36,3 @@ I'm a first-year **Computer Science** student at the **University of Waterloo** 
 ---
 
 "Explore everything, because discovery is unintentional"
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=graceshen-dev&show_icons=true&hide_border=true" alt="Grace's GitHub stats" height="150"/>
-</p>

@@ -12,7 +12,7 @@ I'm a first-year **Computer Science** student at the **University of Waterloo** 
 
 **Languages:** Python · Java · JavaScript · HTML · CSS  
 **Tools:** Git & GitHub · VS Code · GitHub Pages  
-**Currently learning:** _add whatever you're picking up right now_
+**Currently learning/using:** React · TypeScript · Node.js · Tailwind CSS · SQL
 
 ---
 

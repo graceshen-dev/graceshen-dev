@@ -1,4 +1,4 @@
-# Hi, I'm Grace 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Grace%20👋&fontSize=50&fontAlignY=35&animation=fadeIn&desc=CS%20@%20University%20of%20Waterloo&descAlignY=55&descSize=18" width="100%" alt="Hi, I'm Grace"/> <!-- Typing animation --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Computer+Science+%40+UWaterloo+🎓;Building+things+people+actually+use+🛠️;Product+%2B+code+%3D+my+happy+place+💡;Open+to+Summer+2027+co-op!+🚀" alt="Typing animation"/> </p>
 
 I'm a first-year **Computer Science** student at the **University of Waterloo** who has a passion for building, community, and culture.
 

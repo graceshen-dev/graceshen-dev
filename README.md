@@ -5,6 +5,7 @@ I'm a first-year **Computer Science** student at the **University of Waterloo** 
 🌐 **Website:** [graceshen-dev.github.io](https://graceshen-dev.github.io)  (more to be added soon...)
 
 💼 **Looking for:** Summer 2027 co-op roles in software engineering / product  
+
 📫 **Reach me:** [LinkedIn](https://linkedin.com/in/-grace-shen-) · [Email](mailto:g24shen@uwaterloo.ca)
 
 ---
